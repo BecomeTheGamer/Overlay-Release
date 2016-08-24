@@ -1,0 +1,2 @@
+ 1.0.18
+ - Packaged stats with the application.
