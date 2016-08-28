@@ -1,2 +1,8 @@
  1.0.18
  - Packaged stats with the application.
+
+1.0.19
+ - Allows players to manually set their team
+ - Fixed a few areas where team wasn't properly being set
+ - Changed approach to share stats -- copy instead of automatic
+ - A few bug fixes
