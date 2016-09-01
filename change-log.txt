@@ -1,8 +1,19 @@
- 1.0.18
- - Packaged stats with the application.
+1.0.20
+ - Fixed MMR tag preventing some hero matching on 1920x1080
+ - Reverted change to stats sharing.
+ - Changed stats sharing text to make it more clear.
+ - Added Real-Time link share button
+ - Fixed one of two memory leaks
+ - Fixed the auto SteamPath find from breaking
+ - Fixed some heroes being added when they were hovered (Clockwerk, Tusk, etc.)
+ - Preparing for Underlord stats
 
 1.0.19
  - Allows players to manually set their team
  - Fixed a few areas where team wasn't properly being set
  - Changed approach to share stats -- copy instead of automatic
  - A few bug fixes
+
+
+ 1.0.18
+ - Packaged stats with the application.
