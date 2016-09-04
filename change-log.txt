@@ -1,3 +1,6 @@
+1.0.21
+ - Processed 1920x1080 data again so that hero recognition works as intended
+ 
 1.0.20
  - Fixed MMR tag preventing some hero matching on 1920x1080
  - Reverted change to stats sharing.
