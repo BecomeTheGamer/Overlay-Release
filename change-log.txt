@@ -1,3 +1,9 @@
+2.0.0
+ - 7.00 Compatible
+ - Monkey King Added
+ - Migrated some features from the web version
+ - Support for aspect ratios instead of resolutions. 90%+ of common aspect ratios are supported as of 2.0.0.
+
 1.0.22
  - Underlord added
  - Fixed PL hover on 1366x768
