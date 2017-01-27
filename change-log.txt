@@ -1,3 +1,6 @@
+2.0.1
+ - Properly tracking install / uninstall
+ 
 2.0.0
  - 7.00 Compatible
  - Monkey King Added
