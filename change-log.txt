@@ -1,3 +1,9 @@
+2.0.3
+ - Readded Cycle State setting active screen -- should migrate this out of the reducer later.
+ - Fixed Steam Not Found modal
+ - Fixed client side analytics tracking
+ - Migrated to new hero processing algorithm, massive speed increase in detecting heroes.
+
 2.0.2
  - Fix to ensure shortcut is added
  - Added notice about lack of OpenGL and Vulkan support
