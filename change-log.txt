@@ -1,3 +1,13 @@
+2.0.6
+ - Fixed hero suggestion rendering
+ - Removed greedy focus
+ - Moved notification panel so it's out of the way of settings close button
+
+2.0.5
+ - Updated statistics
+ - Reduced processing cycle time
+ - Fixed "Find Steam.exe"
+ 
 2.0.4
  - Increased accuracy of hero identification on lower resolutions
  
