@@ -1,4 +1,11 @@
- 2.0.8
+2.1.0
+ - Added a second tab to provide useful information to non-ranked all pick users
+ - Updated meta heroes
+ - Fixed PA portrait
+ - Prevent setting picks that were already found (processing speed)
+ - Rework of information structure storing
+
+2.0.8
  - Added load on scroll
  - Added scrollbar
  - Fixed an issue where misdetection wouldn't empty the hero list
