@@ -1,3 +1,7 @@
+2.1.1
+ * Fixed issue with two monitor detection
+ * Upgraded speed of the interface, still needs work.
+ 
 2.1.0
  - Added a second tab to provide useful information to non-ranked all pick users
  - Updated meta heroes
