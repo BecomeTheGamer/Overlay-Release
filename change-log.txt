@@ -1,3 +1,6 @@
+2.1.2
+ * More speed upgrades for the interface.
+ 
 2.1.1
  * Fixed issue with two monitor detection
  * Upgraded speed of the interface, still needs work.
