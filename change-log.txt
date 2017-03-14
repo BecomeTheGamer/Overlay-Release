@@ -1,3 +1,10 @@
+2.2.0
+ * Added welcome panel
+ * Added tutorial
+ * Added feature polls
+ * Fixed cursor blinking
+ * Speed upgrades
+ 
 2.1.2
  * More speed upgrades for the interface.
  
