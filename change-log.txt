@@ -1,3 +1,6 @@
+2.2.1
+ * Fixed a tracking issue
+ 
 2.2.0
  * Added welcome panel
  * Added tutorial
