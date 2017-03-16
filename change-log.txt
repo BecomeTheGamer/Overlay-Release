@@ -1,3 +1,7 @@
+2.2.3
+ * It's too late to be releasing changes...
+ * Removed a debugging line
+ 
 2.2.2
  * Fixes for Windows 7 and faster click response.
  
