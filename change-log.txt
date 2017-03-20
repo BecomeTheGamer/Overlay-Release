@@ -1,3 +1,9 @@
+2.2.4
+ * Reverted transparency click-through issues
+ * More analytics fixes
+ * Updated Jakiro
+ * Fixed some resolution and loading issues
+ 
 2.2.3
  * It's too late to be releasing changes...
  * Removed a debugging line
