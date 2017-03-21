@@ -1,3 +1,6 @@
+2.2.5
+ * Added Scale Factor warning
+ 
 2.2.4
  * Reverted transparency click-through issues
  * More analytics fixes
