@@ -1,3 +1,6 @@
+2.2.6
+ * Fixed an issue with side detection
+ 
 2.2.5
  * Added Scale Factor warning
  * More analytics and fixes
