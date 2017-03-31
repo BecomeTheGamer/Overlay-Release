@@ -1,3 +1,8 @@
+2.2.7
+ * Decreased margin of error for Visage, Doom, and Nevermore
+ * Fixed Earth Shaker portrait
+ * Reduced height of interface to allow players to select bans more easily
+ 
 2.2.6
  * Fixed an issue with side detection
  
