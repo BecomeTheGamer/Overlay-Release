@@ -1,3 +1,10 @@
+2.3.5
+ * New console.log method handles multiple languages
+2.3.0
+ * Backer features
+ * Faster phase detection
+2.2.8
+ * Added Shopkeeper's Quiz
 2.2.7
  * Decreased margin of error for Visage, Doom, and Nevermore
  * Fixed Earth Shaker portrait
