@@ -1,3 +1,7 @@
+2.3.7
+ * Added Pangolier
+ * Added Dark Willow
+ * Fixed an issue with logging in and the hero suggestions panel
 2.3.6
  * Fixed issue with english that come up from the previous release
 2.3.5
