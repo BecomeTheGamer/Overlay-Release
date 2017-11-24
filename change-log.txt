@@ -1,3 +1,5 @@
+2.3.9
+ * Overriding issue for broken overlays
 2.3.8
  * Found an issue with panels that would cause them to be permanently closed
 2.3.7
